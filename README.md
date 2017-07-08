@@ -16,7 +16,7 @@ in your disk create folder , as:
 └── log  
     ├── mongod.log  
 
-about how to mongod.conf you can go to <https://phobal.github.io/2016/11/06/mongodb%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/>  
+about how to config mongod.conf you can go to [config mongodb](https://phobal.github.io/2016/11/06/mongodb%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/)  
 then start mongodb:  
 `mongod --port 27017 -f ./conf/mongod.conf`  
 
