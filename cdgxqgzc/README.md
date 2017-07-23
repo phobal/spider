@@ -16,7 +16,7 @@
 - 使用的技术  
 [superagent](https://github.com/visionmedia/superagent): 主要用于模拟浏览器发送http请求，并返回请求结果  
 [cheerio](https://github.com/cheeriojs/cheerio)  服务器端的jQuery，对爬取的网页元素进行各种类似jQuery对浏览器的操作  
-[nodemailer](https://github.com/nodemailer/nodemailer) 使用node发送邮件的库 
+[nodemailer](https://github.com/nodemailer/nodemailer) 使用node发送邮件的库   
 [node-schedule](https://github.com/node-schedule/node-schedule) node定时任务库  
 
 ### TODO
