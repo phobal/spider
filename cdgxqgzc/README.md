@@ -11,7 +11,8 @@
 对上一步获取的数据进行清洗，主要是去判断今天是否有发布最新的消息  
 * 发送邮件  
 对上一步清洗的数据做一个判断，如果今天有新的公告，那么就开始群发邮件
-
+效果如下:
+![](./assets/email.png)
 - 使用的技术  
 [superagent](https://github.com/visionmedia/superagent): 主要用于模拟浏览器发送http请求，并返回请求结果  
 [cheerio](https://github.com/cheeriojs/cheerio)  服务器端的jQuery，对爬取的网页元素进行各种类似jQuery对浏览器的操作  
